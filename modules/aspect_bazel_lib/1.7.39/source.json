@@ -1,0 +1,5 @@
+{
+    "integrity": "sha256-049bFMVnsu9J7CCGuKE9fxrdDTRfrBE6Ns/oTBeqDgM=",
+    "strip_prefix": "bazel-lib-1.7.39",
+    "url": "https://github.com/publish-to-bcr-dev/bazel-lib/archive/refs/tags/v1.7.39.tar.gz"
+}
