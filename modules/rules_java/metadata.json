@@ -3,7 +3,11 @@
     "maintainers": [],
     "versions": [
         "4.0.0",
-        "5.0.0"
+        "5.0.0",
+        "5.3.10"
     ],
-    "yanked_versions": {}
+    "yanked_versions": {},
+    "repository": [
+        "github:bazelbuild/rules_java"
+    ]
 }
