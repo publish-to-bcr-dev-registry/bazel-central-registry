@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-56aIwba2ljoTlfQn2wDlkZJ8CeVwlo+hrOfMjUstgAg=",
+    "strip_prefix": "bazel-lib-1.8.20",
+    "url": "https://github.com/publish-to-bcr-dev/bazel-lib/archive/refs/tags/v1.8.20.zip",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-eGogPohiTXEPmUe2F2R/e7YSf/M12TUyx2xa6tCunzM="
+    },
+    "patch_strip": 0
+}
