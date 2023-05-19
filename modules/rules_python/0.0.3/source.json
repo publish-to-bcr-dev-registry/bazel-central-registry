@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-z3GmOITinr9geV5n5c4cA6jO/oCFZiQVNxsWHGWn2QA=",
+    "strip_prefix": "rules_python-0.0.3",
+    "url": "https://github.com/publish-to-bcr-dev/rules_python/releases/download/0.0.3/rules_python-0.0.3.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-zBHCkciX93fal/vaaU0FqcvQRZR9KY7ZvVchwiLYCic="
+    },
+    "patch_strip": 0
+}
