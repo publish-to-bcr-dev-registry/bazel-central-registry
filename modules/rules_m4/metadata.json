@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/jmillikin/rules_m4",
+    "maintainers": [
+        {
+            "name": "Derek Cormier",
+            "email": "derek@aspect.dev",
+            "github": "kormide"
+        }
+    ],
+    "repository": [
+        "github:publish-to-bcr-dev/rules_m4"
+    ],
+    "versions": [
+        "0.0.10"
+    ],
+    "yanked_versions": {}
+}
