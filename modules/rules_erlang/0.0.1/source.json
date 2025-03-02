@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-/lBYDPoRjzJ3xYZSZ8jiZyuPL2NmxjcqcfM01yK+jTU=",
+    "strip_prefix": "rules_erlang-0.0.1",
+    "url": "https://github.com/publish-to-bcr-dev/rules_erlang/releases/download/0.0.1/rules_erlang-0.0.1.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-oJ5kJZFtj9eF5CY3A1svstQTcLz05cJWo1sHWlMegeI="
+    },
+    "patch_strip": 0
+}
