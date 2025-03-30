@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-5+6C26GDG9q4zHH6xUQN3rne1S7m1edPyJPOqP9GzLo=",
+    "strip_prefix": "rules_python-0.0.11/gazelle",
+    "url": "https://github.com/publish-to-bcr-dev/rules_python/releases/download/0.0.11/rules_python-0.0.11.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-1QyxnpA5S6eCs3aOIECSI/moP+NCgprJ9PSyDx++HCo="
+    },
+    "patch_strip": 0
+}
